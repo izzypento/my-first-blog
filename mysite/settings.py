@@ -25,7 +25,7 @@ SECRET_KEY = '*5hl%@kj#$(@or!lqqcq%vizg@--s0n*o301fr6sf*sxm)g*d1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'izzypento.pythonanywhere.com']
 
 
 # Application definition
